@@ -1,0 +1,388 @@
+{
+    "member_designation": "TELECALLER",
+    "member_status": "Active",
+    "member_crm_access": "No",
+    "member_skip_call": "Yes",
+    "customerlist": [
+      {
+        "customerlist": [
+          {
+            "customer_name": "Anirban Purkait",
+            "customer_contact_no": "7003640291",
+            "customer_whatsapp_no": "9800099475",
+            "customer_location": "Haldia",
+            "make_model": "WAGON R",
+            "yom": "2018",
+            "ins_exp": "9/21/18"
+          },
+          {
+            "customer_name": "Ardhendu Chatterjee",
+            "customer_contact_no": "9800099475",
+            "customer_whatsapp_no": "7003640291",
+            "customer_location": "Asansol",
+            "make_model": "DZIRE",
+            "yom": "2018",
+            "ins_exp": "6/30/18"
+          },
+          {
+            "customer_name": "Soumya Basak",
+            "customer_contact_no": "7003640291",
+            "customer_whatsapp_no": "9800099475",
+            "customer_location": "Salkia",
+            "make_model": "EECO ",
+            "yom": "2018",
+            "ins_exp": "5/19/18"
+          },
+          {
+            "customer_name": "Md. Haider Ali",
+            "customer_contact_no": "9800099475",
+            "customer_whatsapp_no": "7003640291",
+            "customer_location": "Topsia",
+            "make_model": "ERTIGA",
+            "yom": "2018",
+            "ins_exp": "3/6/18"
+          },
+          {
+            "customer_name": "Sanjeet Kumar Sah",
+            "customer_contact_no": "7003640291",
+            "customer_whatsapp_no": "9800099475",
+            "customer_location": "Agarpara",
+            "make_model": "IGNIS",
+            "yom": "2018",
+            "ins_exp": "1/20/18"
+          },
+          {
+            "customer_name": "Sourav Mondal",
+            "customer_contact_no": "9800099475",
+            "customer_whatsapp_no": "7003640291",
+            "customer_location": "Behala",
+            "make_model": "S-CROSS",
+            "yom": "2018",
+            "ins_exp": "4/26/18"
+          },
+          {
+            "customer_name": "Krishna Shaw",
+            "customer_contact_no": "7003640291",
+            "customer_whatsapp_no": "9800099475",
+            "customer_location": "Shyambazar",
+            "make_model": "SWIFT",
+            "yom": "2018",
+            "ins_exp": "9/29/18"
+          },
+          {
+            "customer_name": "Priyanka Guha",
+            "customer_contact_no": "9800099475",
+            "customer_whatsapp_no": "7003640291",
+            "customer_location": "Habra",
+            "make_model": "DZIRE",
+            "yom": "2018",
+            "ins_exp": "6/26/18"
+          },
+          {
+            "customer_name": "Shestha Saha",
+            "customer_contact_no": "7003640291",
+            "customer_whatsapp_no": "9800099475",
+            "customer_location": "Kolkata",
+            "make_model": "IGNIS",
+            "yom": "2018",
+            "ins_exp": "3/30/18"
+          },
+          {
+            "customer_name": "Riya Khatun",
+            "customer_contact_no": "9800099475",
+            "customer_whatsapp_no": "7003640291",
+            "customer_location": "Konnagar",
+            "make_model": "IGNIS",
+            "yom": "2018",
+            "ins_exp": "6/30/18"
+          }
+        ],
+        "_id": "614c781b7c59c5c8e7dab0ea",
+        "list_name": "Maruti Oct 2020",
+        "cmpid": "88791",
+        "createdAt": "2021-09-23T12:50:35.536Z",
+        "updatedAt": "2021-09-23T12:50:35.536Z",
+        "__v": 0
+      },
+      {
+        "customerlist": [
+          {
+            "customer_name": "Anirban Purkait",
+            "customer_contact_no": "7003640291",
+            "customer_whatsapp_no": "9800099475",
+            "customer_location": "Haldia",
+            "reg_no": "WB055462",
+            "make_model": "Xcent (D)",
+            "yom": "2018",
+            "ins_exp": "01/01/18"
+          },
+          {
+            "customer_name": "Ardhendu Chatterjee",
+            "customer_contact_no": "9800099475",
+            "customer_whatsapp_no": "7003640291",
+            "customer_location": "Asansol",
+            "reg_no": "WB07J5058",
+            "make_model": "Xcent (D)",
+            "yom": "2018",
+            "ins_exp": "01/01/18"
+          },
+          {
+            "customer_name": "Soumya Basak",
+            "customer_contact_no": "7003640291",
+            "customer_whatsapp_no": "9800099475",
+            "customer_location": "Salkia",
+            "reg_no": "WB07J5063",
+            "make_model": "Xcent (D)",
+            "yom": "2018",
+            "ins_exp": "01/01/18"
+          },
+          {
+            "customer_name": "Md. Haider Ali",
+            "customer_contact_no": "9800099475",
+            "customer_whatsapp_no": "7003640291",
+            "customer_location": "Topsia",
+            "reg_no": "WB06P6322",
+            "make_model": "EON",
+            "yom": "2018",
+            "ins_exp": "01/01/18"
+          },
+          {
+            "customer_name": "Sanjeet Kumar Sah",
+            "customer_contact_no": "7003640291",
+            "customer_whatsapp_no": "9800099475",
+            "customer_location": "Agarpara",
+            "reg_no": "WB19J2869",
+            "make_model": "Xcent (D)",
+            "yom": "2018",
+            "ins_exp": "01/01/18"
+          },
+          {
+            "customer_name": "Sourav Mondal",
+            "customer_contact_no": "9800099475",
+            "customer_whatsapp_no": "7003640291",
+            "customer_location": "Behala",
+            "reg_no": "WB12AT6082",
+            "make_model": "EON",
+            "yom": "2018",
+            "ins_exp": "01/01/18"
+          },
+          {
+            "customer_name": "Krishna Shaw",
+            "customer_contact_no": "7003640291",
+            "customer_whatsapp_no": "9800099475",
+            "customer_location": "Shyambazar",
+            "reg_no": "WB06P7000",
+            "make_model": "CRETA (D)",
+            "yom": "2018",
+            "ins_exp": "01/01/18"
+          },
+          {
+            "customer_name": "Priyanka Guha",
+            "customer_contact_no": "9800099475",
+            "customer_whatsapp_no": "7003640291",
+            "customer_location": "Habra",
+            "reg_no": "JH10BK1737",
+            "make_model": "Elite i20 (1.2P)",
+            "yom": "2018",
+            "ins_exp": "01/01/18"
+          },
+          {
+            "customer_name": "Shestha Saha",
+            "customer_contact_no": "7003640291",
+            "customer_whatsapp_no": "9800099475",
+            "customer_location": "Kolkata",
+            "reg_no": "WB02AM2847",
+            "make_model": "GRAND i10 (P)",
+            "yom": "2018",
+            "ins_exp": "01/01/18"
+          },
+          {
+            "customer_name": "Riya Khatun",
+            "customer_contact_no": "9800099475",
+            "customer_whatsapp_no": "7003640291",
+            "customer_location": "Konnagar",
+            "reg_no": "WB08E1881",
+            "make_model": "Elite i20 (1.2P)",
+            "yom": "2018",
+            "ins_exp": "01/01/18"
+          }
+        ],
+        "_id": "615c3a557c59c5c8e7dab0f2",
+        "list_name": "Nov Hyundai 2021",
+        "cmpid": "88791",
+        "createdAt": "2021-10-05T11:43:17.390Z",
+        "updatedAt": "2021-10-05T11:43:17.390Z",
+        "__v": 0
+      },
+      {
+        "customerlist": [
+          {
+            "customer_name": "Anirban Purkait",
+            "customer_contact_no": "7003640292",
+            "customer_whatsapp_no": "9800099475",
+            "customer_location": "Haldia",
+            "reg_no": "WB02AA0101",
+            "make_model": "Honda - City",
+            "yom": "2018",
+            "ins_exp": "25-06-2021"
+          },
+          {
+            "customer_name": "Ardhendu Chatterjee",
+            "customer_contact_no": "9800099476",
+            "customer_whatsapp_no": "7003640291",
+            "customer_location": "Asansol",
+            "reg_no": "WB02AB0202",
+            "make_model": "Suzuki - Swift Dzire",
+            "yom": "2019",
+            "ins_exp": "22-06-2021"
+          },
+          {
+            "customer_name": "Soumya Basak",
+            "customer_contact_no": "7278206135",
+            "customer_whatsapp_no": "9800099475",
+            "customer_location": "Salkia",
+            "reg_no": "WB02AA0101",
+            "make_model": "Huyndai - i10",
+            "yom": "2020",
+            "ins_exp": "18-06-2021"
+          },
+          {
+            "customer_name": "Sonu Sharma",
+            "customer_contact_no": "4123657896",
+            "customer_whatsapp_no": "3215698754",
+            "customer_location": "rjytjytjytjy",
+            "reg_no": "gbdh5e56",
+            "make_model": "gfnnn",
+            "yom": "2016",
+            "ins_exp": "12-12-2021"
+          },
+          {
+            "customer_name": "Waqar Khan",
+            "customer_contact_no": "7598643216",
+            "customer_whatsapp_no": "9574631289",
+            "customer_location": "rthrtht",
+            "reg_no": "fdrehmytmyt",
+            "make_model": "uili",
+            "yom": "2019",
+            "ins_exp": "01-01-2021"
+          },
+          {
+            "customer_name": "Ritu Agarwal",
+            "customer_contact_no": "4563217597",
+            "customer_whatsapp_no": "3652147896",
+            "customer_location": "hfiuhubrb",
+            "reg_no": "trhhnfgb",
+            "make_model": "jfuoyrty",
+            "yom": "2019",
+            "ins_exp": "30-11-2021"
+          },
+          {
+            "customer_name": "ngb gb",
+            "customer_contact_no": "4525152624",
+            "customer_whatsapp_no": "3258964712",
+            "customer_location": "trjrjr",
+            "reg_no": "fgnrfbfedbfd",
+            "make_model": "nryukgnfn",
+            "yom": "2018",
+            "ins_exp": "09-09-2021"
+          }
+        ],
+        "_id": "617929567c59c5c8e7dab105",
+        "list_name": "Updated Sample List 1",
+        "cmpid": "88791",
+        "createdAt": "2021-10-27T10:26:31.006Z",
+        "updatedAt": "2021-10-27T10:26:31.006Z",
+        "__v": 0
+      },
+      {
+        "customerlist": [
+          {
+            "customer_name": "Krishna Shaw",
+            "customer_contact_no": "7044488289",
+            "customer_whatsapp_no": "9800099475",
+            "customer_location": "Kolkata",
+            "reg_no": "WB02AA0103",
+            "make_model": "Honda - City",
+            "yom": "2017",
+            "ins_exp": "24-06-2021"
+          },
+          {
+            "customer_name": "Sanjeet Kumar Sah",
+            "customer_contact_no": "9800099475",
+            "customer_whatsapp_no": "7003640291",
+            "customer_location": "Delhi",
+            "reg_no": "WB02AB0204",
+            "make_model": "Suzuki - Swift Dzire",
+            "yom": "2018",
+            "ins_exp": "21-06-2021"
+          },
+          {
+            "customer_name": "Md. Haider Ali",
+            "customer_contact_no": "7003640291",
+            "customer_whatsapp_no": "9800099475",
+            "customer_location": "Topsia",
+            "reg_no": "WB02AA0105",
+            "make_model": "Huyndai - i10",
+            "yom": "2019",
+            "ins_exp": "19-06-2021"
+          },
+          {
+            "customer_name": "Alauddin Khan",
+            "customer_contact_no": "8902653141",
+            "customer_whatsapp_no": "202020202",
+            "customer_location": "hhrt",
+            "reg_no": "thtrh5645",
+            "make_model": "hrthhth",
+            "yom": "2018",
+            "ins_exp": "14-05-2021"
+          },
+          {
+            "customer_name": "Sonam Gupta",
+            "customer_contact_no": "7003640291",
+            "customer_whatsapp_no": "303030303",
+            "customer_location": "ioiuuilui",
+            "reg_no": "ewvsvsdv",
+            "make_model": "gbrgry",
+            "yom": "2019",
+            "ins_exp": "18-09-2021"
+          },
+          {
+            "customer_name": "Gupta Ji",
+            "customer_contact_no": "9800099475",
+            "customer_whatsapp_no": "505050505",
+            "customer_location": "ewetwgw",
+            "reg_no": "wgwegwg",
+            "make_model": "bgbgb",
+            "yom": "2017",
+            "ins_exp": "30-09-2021"
+          },
+          {
+            "customer_name": "Khan Sahab",
+            "customer_contact_no": "8768122644",
+            "customer_whatsapp_no": "909090909",
+            "customer_location": "grgthth",
+            "reg_no": "ytkghmgm",
+            "make_model": "werweet",
+            "yom": "2019",
+            "ins_exp": "01-10-2021"
+          }
+        ],
+        "_id": "617929747c59c5c8e7dab106",
+        "list_name": "Updated Sample List 2",
+        "cmpid": "88791",
+        "createdAt": "2021-10-27T10:27:00.004Z",
+        "updatedAt": "2021-10-27T10:27:00.004Z",
+        "__v": 0
+      }
+    ],
+    "id": "614c78887c59c5c8e7dab0ed",
+    "member_name": "ANIMA DEY",
+    "member_location": "Kolkata, West Bengal",
+    "member_mail": "sanjeetsah09@gmail.com",
+    "member_mob_no": "7044292222",
+    "member_password": "123456",
+    "cmpid": "88791",
+    "type": "Genaral Member",
+    "createdAt": "2021-09-23T12:52:24.530Z",
+    "updatedAt": "2021-10-27T10:27:20.083Z"
+  }
